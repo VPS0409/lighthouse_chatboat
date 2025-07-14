@@ -1,1 +1,8 @@
 Статические файлы
+
+
+
+
+def initialize_database(db_config):
+def add_new_question(intent_name: str, answer_text: str, examples: list, db_config):
+(self, main_question: str, answer_text: str, variations: list):

@@ -1,9 +1,9 @@
-# Charity Bot for Medical Support
+# Бот для поддержки клиентов Дома с Маяком
 
 ## Features
-- Intent recognition with multilingual embeddings
-- MySQL database integration
-- REST API for website integration
+- Распознавание вопросов с использованием эбендингов
+- MySQL - интеграция с базой данных
+- REST API - интеграция с веб-сайтом
 
 ## Local Development
 1. Clone repo
